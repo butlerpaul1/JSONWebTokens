@@ -1,0 +1,30 @@
+{
+  "name": "jsonwebtokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auth": "0.0.9",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "command-line-args": "^5.0.2",
+    "create-hmac": "^1.1.6",
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "express-router": "0.0.1",
+    "generate-key": "0.0.6",
+    "hmac": "^1.0.1",
+    "jsonwebtoken": "^8.1.1",
+    "nodemon": "^1.14.12",
+    "ofuda": "^0.3.1",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.33.3",
+    "sequelize-cli": "^3.2.0"
+  }
+}
